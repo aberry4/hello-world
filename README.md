@@ -1,2 +1,2 @@
 # hello-world
-This is the hello-world tutorial/lab that must be completed for CSC 154
+This is the updated version of README.md. This text is different from what was in main.
